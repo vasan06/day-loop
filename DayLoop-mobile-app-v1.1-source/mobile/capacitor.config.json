@@ -1,0 +1,10 @@
+{
+  "appId": "com.dayloop.app",
+  "appName": "DayLoop",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 600, "backgroundColor": "#f4eee5" },
+    "LocalNotifications": { "smallIcon": "ic_stat_icon", "iconColor": "#69465F" }
+  }
+}
